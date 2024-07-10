@@ -1150,10 +1150,6 @@ div.img_about_guide img {
 }
 
 @media screen and (max-width: 768px) {
-  body {
-    background-color: red;
-  }
-
   div.head_title {
     width: 10%;
   }
